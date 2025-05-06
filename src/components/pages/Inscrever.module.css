@@ -1,0 +1,22 @@
+.section{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding: 5rem 10rem;
+    gap: 2rem;
+    flex-direction: column;
+}
+
+.section h1{
+    font-size: 2rem;
+    text-align: center;
+    text-decoration: underline #FFD60A;
+}
+
+@media screen and (width <= 600px) {
+    .section{
+        gap: 4rem;
+        padding: 5rem 0;
+    }
+}

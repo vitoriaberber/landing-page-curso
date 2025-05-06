@@ -1,0 +1,15 @@
+.ul{
+    font-size: 1.2rem;
+    margin: 1rem 0;
+    list-style-type: none;
+}
+
+.ul li{
+    display: flex;
+    align-items: center;
+}
+
+.ul svg{
+    color: #FFD60A;
+    margin-right: .5rem;
+}

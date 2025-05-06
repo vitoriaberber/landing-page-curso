@@ -1,0 +1,28 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    background-color: #FFD60A;
+    padding: 1rem;
+}
+
+.footer ul{
+    display: flex;
+    list-style-type: none;
+    gap: 1rem;
+}
+
+.footer a{
+    text-decoration: none;
+    color: black;
+}
+
+.footer a:hover{
+    color: #fff2b1;
+}
+
+.footer svg{
+    width: 25px;
+    height: 30px;
+}
