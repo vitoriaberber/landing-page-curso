@@ -31,7 +31,7 @@ https://landing-page-curso-pi.vercel.app/
 
 ## 🖥️ Como rodar o projeto localmente
 **Clone o repositório:**
-   git clone https://github.com/vitoriaberber/landingpage-curso.git
+   git clone https://github.com/vitoriaberber/landing-page-curso.git
   - Instale as dependências:
 npm install
   - Rode o projeto:
